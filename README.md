@@ -20,3 +20,9 @@ At the beginning of the game, you start on an ancient Japan map. Here you can tr
 ## Gameplay
 
 After choosing the clan you want to conquer, the game takes you to a 2D platformer/action themed level. Here, in order to complete the level, you need to advance on the platforms, collect yen, which is the currency, and fight the enemies.
+
+There are 2 types of attack mechanics:
+1. Slicing attack with **X**
+2. Piercing attack with **C**
+
+![Ekran görüntüsü 2024-03-17 164219](https://github.com/OzgunGultekin/PROJECT-SAKURA-ODA-SAGA-/assets/153070257/d4fd2bee-166d-4f0f-8c78-f2bc4ce51ac5)
